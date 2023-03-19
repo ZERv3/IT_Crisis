@@ -40,6 +40,6 @@ def statistics(dist, SH_value):
         else:
             line = "\n\t\tEngine: 80% \n\t\tSH_generation: 20%"
 
-        stats.append([SH_cur, round(vel*1000)/1000, line])
+        stats.append([SH_cur, round(vel*1000)/1000, line, flag])
     
     return stats
