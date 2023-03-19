@@ -1,235 +1,329 @@
 Day 1:
  	SH: 16;
  	Velocity: 1.923;
- 	Power: Engine: 80% SH_generation: 20%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
 Day 2:
  	SH: 32;
  	Velocity: 1.786;
- 	Power: Engine: 80% SH_generation: 20%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
 Day 3:
  	SH: 64;
  	Velocity: 1.562;
- 	Power: Engine: 80% SH_generation: 20%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
 Day 4:
  	SH: 128;
  	Velocity: 1.25;
- 	Power: Engine: 80% SH_generation: 20%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
 Day 5:
  	SH: 256;
  	Velocity: 0.893;
- 	Power: Engine: 80% SH_generation: 20%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
 Day 6:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 20%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
 Day 7:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 8:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 9:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 10:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 11:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 12:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 13:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 14:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 15:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 16:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 17:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 18:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 19:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 20:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 21:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 22:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 23:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 24:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 25:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 26:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 27:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 28:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 29:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 30:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 31:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 32:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 33:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 34:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 35:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 36:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 37:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 38:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 39:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 40:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 41:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 42:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 43:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 44:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 45:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 46:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 
 Day 47:
  	SH: 512;
  	Velocity: 0.568;
- 	Power: Engine: 80% SH_generation: 0%
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
 

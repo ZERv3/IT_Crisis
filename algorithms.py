@@ -36,9 +36,9 @@ def statistics(dist, SH_value):
         
         line = ""
         if flag == 0:
-            line = "Engine: 80% SH_generation: 0%"
+            line = "\n\t\tEngine: 80% \n\t\tSH_generation: 0%"
         else:
-            line = "Engine: 80% SH_generation: 20%"
+            line = "\n\t\tEngine: 80% \n\t\tSH_generation: 20%"
 
         stats.append([SH_cur, round(vel*1000)/1000, line])
     
