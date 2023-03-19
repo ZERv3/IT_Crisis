@@ -327,7 +327,714 @@ Day 47:
 		Engine: 80% 
 		SH_generation: 0%
 
+Day 48:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
 
-Fuel: 3,880 units (77,600₵)
-Oxygen: 38,304 units (268,128₵)
-Total: 115,904₵
+Day 49:
+ 	SH: 32 units;
+ 	Velocity: 1.786 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 50:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 51:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 52:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 53:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 54:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 55:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 56:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 57:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 58:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 59:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 60:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 61:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 62:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 63:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 64:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 65:
+ 	SH: 32 units;
+ 	Velocity: 1.786 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 66:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 67:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 68:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 69:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 70:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 71:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 72:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 73:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 74:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 75:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 76:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 77:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 78:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 79:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 80:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 81:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 82:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 83:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 84:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 85:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 86:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 87:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 88:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 89:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 90:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 91:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 92:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 93:
+ 	SH: 32 units;
+ 	Velocity: 1.786 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 94:
+ 	SH: 64 units;
+ 	Velocity: 1.562 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 95:
+ 	SH: 128 units;
+ 	Velocity: 1.25 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 96:
+ 	SH: 256 units;
+ 	Velocity: 0.893 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 97:
+ 	SH: 512 units;
+ 	Velocity: 0.568 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 98:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 99:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 100:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 101:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 102:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 103:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 104:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 105:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 106:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 107:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 108:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 109:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 110:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 111:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 112:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 113:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 114:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 115:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 116:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 117:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 118:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 119:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 120:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 121:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 122:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 123:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 124:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 125:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 126:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 127:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 128:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 129:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 130:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 131:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 132:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 133:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 134:
+ 	SH: 1024 units;
+ 	Velocity: 0.329 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 135:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 136:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 137:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 138:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 139:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 140:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 141:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 20%
+
+Day 142:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 143:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 144:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 145:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 146:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 147:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+Day 148:
+ 	SH: 16 units;
+ 	Velocity: 1.923 ly/d;
+ 	Power: 
+		Engine: 80% 
+		SH_generation: 0%
+
+
+Fuel: 12,280 units (245,600₵)
+Oxygen: 130,112 units (910,784₵)
+Total: 375,712₵

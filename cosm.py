@@ -1,7 +1,80 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sqlite3
+import requests
+import ast
+from bs4 import BeautifulSoup as bs
 
-import bd
+import database
+
+
+import math
+
+def Velocity(mass, voltage = 80):
+    # Единица измерения - светововой год / день
+    return 2*(voltage/80)*(200/mass)
+
+def Gen(gen_old, k):
+    # Новая популяция
+    return gen_old*(k+1)
+
+def Koef(temperature, oxygen):
+    # Коеффициент
+    return math.sin(-(math.pi / 2) + (math.pi/40)*(temperature + oxygen*0.5))
+
+def Energy(temperature):
+    s = 0
+    for i in range(temperature):
+        s += i
+    return s
+
+# Каждый день популяция травы увеличивается в 2 раза
+# До тех пор пока не будет достаточно для выгрузки на точку + 8
+# Если достаточно то энергия тратится только на реактор (80%)
+
+def statistics(dist, SH_value):
+    SH_cur = 8
+    dist_cur = 0
+    stats = []
+    while dist_cur < dist:
+        flag = 0
+        if SH_cur < (SH_value + 8):
+            flag = 1
+            SH_cur *= 2
+        vel = Velocity(mass = 192 + SH_cur)
+        dist_cur += vel
+        
+        line = ""
+        if flag == 0:
+            line = "\n\t\tEngine: 80% \n\t\tSH_generation: 0%"
+        else:
+            line = "\n\t\tEngine: 80% \n\t\tSH_generation: 20%"
+
+        stats.append([SH_cur, round(vel*1000)/1000, line, flag])
+    
+    return stats
+
+def update(data):
+    Fuel = 0
+    Oxygen = 0
+
+    days = []    
+    for target in data:
+        stat = statistics(target[2], target[1])
+        for i in stat:
+            days.append(i)
+
+    with open('output.txt', 'w') as f:
+        for i in range(len(days)):
+            line = f"Day {i+1}:\n \tSH: {days[i][0]} units;\n \tVelocity: {days[i][1]} ly/d;\n \tPower: {days[i][2]}\n"
+            f.write(line+"\n")
+            if days[i][-1] == 0:
+                Fuel += 80
+            else:
+                Fuel += 100
+                Oxygen += 38*days[i][0]
+
+        f.write(f"\nFuel: {'{:,}'.format(Fuel)} units ({'{:,}'.format(Fuel*20)}₵)\nOxygen: {'{:,}'.format(Oxygen)} units ({'{:,}'.format(Oxygen*7)}₵)\nTotal: {'{:,}'.format(Fuel*20 + Oxygen)}₵")
+
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
@@ -98,17 +171,39 @@ class Ui_MainWindow(object):
         self.btn.clicked.connect(lambda: self.refresh())
 
     def basa(self):
-        db = sqlite3.connect('predprof.db')
-        cursor = db.cursor()
-        rows = cursor.execute('''SELECT * FROM polet''').fetchall()
-        rows_idnew = []
+
+        rows = database.main()
+        #print(rows)
+        output_string = '(id, SH, Distance)\n'
         for i in rows:
-            rows_idnew.append(i)
-
-        print(rows_idnew)
-
+            output_string += f'{i}\n'
+        self.tochki.clear()
+        self.tochki.insertPlainText(output_string)
 
     #def refresh(self):
+    def refresh(self):
+        
+        line = self.tochki.toPlainText()
+
+        with open('data.txt',"w") as f:
+            f.write(line)
+        
+        with open('data.txt', 'r') as f:
+            data = []
+            data_text = f.readlines()[1:]
+            print(data_text)
+            for line in data_text:
+                q = [int(i) for i in line[1:-2].split(", ")]
+                data.append(q)
+        
+        print(data)
+        update(data)
+
+        # 
+        self.rez_stat.clear()
+        f = open('output.txt', 'r')
+        for line in f:
+            self.rez_stat.insertPlainText(line)
 
 if __name__ == "__main__":
     import sys
